@@ -7,5 +7,5 @@ RPG를 만들기 전, 작은 미니게임부터 만드는 첫날의 결과입니
 - 로그인·실제 결제·광고·플레이 분석 전송은 꺼져 있습니다.
 - 기록은 사용한 브라우저에만 저장됩니다. 로컬 개발 주소의 기록과 공유하지 않습니다.
 - 의견은 DAY01 유튜브 영상 댓글로 남겨 주세요.
-- v0.5.3 · playtest · revision 61e3c7ef48f5ee13. 상용 출시 완료를 뜻하지 않습니다.
+- v0.5.4 · playtest · revision eb946ceb6b71fecf. 상용 출시 완료를 뜻하지 않습니다.
 - 음원 출처/라이선스: assets/audio/CREDITS.txt · 글꼴: assets/fonts/OFL-Nanum.txt. 게임 설정에서도 확인할 수 있습니다.
