@@ -19,3 +19,8 @@ Changes: 32-bar excerpt after the 8-bar introduction; gain adjustment; 6 ms boun
 Sound effects: original design using CC0 acoustic recordings from VSCO 2 CE (Versilian Studios / Sam Gossner; piano Simon Dalzell / Ivy Audio).
 https://github.com/sgossner/VSCO-2-CE
 Sample license: CC0 1.0 Universal. See LICENSE-CC0.txt and source-manifest.json.
+DAY02 effects: 24 WAV cues newly layered from the same pinned VSCO 2 CE acoustic takes
+(bass drum, snare, tambourine, triangle, cello pizzicato, marimba and glockenspiel).
+Edited, filtered, repitched and mixed for this game. Render recipe:
+scripts/day02-impact-render.py. The two licensed background-music recordings above
+were not changed by the DAY02 effects render.
